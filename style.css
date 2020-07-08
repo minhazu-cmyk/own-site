@@ -1,0 +1,55 @@
+.buy-me{  background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.product{
+    font-size: 30px;
+    margin-bottom: 40px;
+    font-weight: 400;
+}
+.c1{
+    text-align: center;
+    margin-top: 100px;
+}
+.shoe{
+    margin-top: 100px;
+}
+
+.picture{
+    margin: 25px 0;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 0 25px;
+}
+.card{ box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 0 25px;
+border: none;}
+.card-footer{
+    border: none;
+}
+span.inline{
+    border: 1px solid orange;
+    border-radius: 10px;
+    height: 3px;
+    width: 9%;
+    display: inline-block;
+    background-color: orange;
+}
+.hello{
+    text-align: center;
+}
+.world{
+    border: 5px solod cornflowerblue;
+    border-radius: 10px;
+    padding: 10px 10px;
+    width: 700px;
+    height: 600px;
+    background-color: dimgray;
+}
+#big{
+    font-weight: 500px;
+}
